@@ -1,16 +1,19 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Banner from './Components/Banner'
 import Footer from "./Components/Rodape";
+import Icons from "./Components/Icons";
+import Banner from "./Components/Banner";
 
 function App() {
   return (
     <BrowserRouter>
 
-    <Banner />
-
       <Routes>
-        <Route path="/" element={<Footer />} />
+        <Route path="/" element={<Banner />} />
       </Routes>
+
+      <Icons/>
+      
+      <Footer />
 
     
     </BrowserRouter>

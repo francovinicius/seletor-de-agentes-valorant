@@ -1,0 +1,11 @@
+.line-1{
+    gap: 5px;
+    margin-top: 5px;
+    padding: 0 1rem;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+}
+
+.line-1 img {
+    width: 27px;
+}
