@@ -30,4 +30,4 @@ Contribuições para a melhoria deste projeto são bem-vindas. Se você tiver su
 
 ## Autor
 
-O Seletor de Agentes Valorant foi desenvolvido por **Vinicius Franco Duarte**. Você pode entrar em contato com Vinicius através do e-mail: [seu-email@example.com](mailto:seu-email@example.com).
+O Seletor de Agentes Valorant foi desenvolvido por **Vinicius Franco Duarte**.
